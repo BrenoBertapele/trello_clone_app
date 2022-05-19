@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img alt="trello_clone" title="trello_clone" src="./github/trelloclone.git" width="220px" />
+    <img alt="trello_clone" title="trello_clone" src=".github/trelloclone.gif" width="1000px" />
   </a>
 </p>
 
